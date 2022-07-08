@@ -1,6 +1,8 @@
 # OIXV_PLA
 Implementacja rozwiązania zadania "Plakatowanie" z XV Olimpiady Informatycznej
 
+Program przyjmuje dane z kolejnych linijek w konsoli. 
+
 Treść zadania:
 
 Wszystkie budynki we wschodniej części Bajtogrodu zostały zbudowane zgodnie z zasadami
